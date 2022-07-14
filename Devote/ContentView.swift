@@ -2,7 +2,7 @@
 //  ContentView.swift
 //  Devote
 //
-//  Created by Todd James on 7/14/22.
+//  Created by Todd James on 7/14/22
 //
 
 import SwiftUI
